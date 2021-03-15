@@ -1,0 +1,13 @@
+C:\Users\Manisha\source\repos\MasyCoda\MasyCoda\bin\Debug\netcoreapp3.1\MasyCoda.exe
+C:\Users\Manisha\source\repos\MasyCoda\MasyCoda\bin\Debug\netcoreapp3.1\MasyCoda.deps.json
+C:\Users\Manisha\source\repos\MasyCoda\MasyCoda\bin\Debug\netcoreapp3.1\MasyCoda.runtimeconfig.json
+C:\Users\Manisha\source\repos\MasyCoda\MasyCoda\bin\Debug\netcoreapp3.1\MasyCoda.runtimeconfig.dev.json
+C:\Users\Manisha\source\repos\MasyCoda\MasyCoda\bin\Debug\netcoreapp3.1\MasyCoda.dll
+C:\Users\Manisha\source\repos\MasyCoda\MasyCoda\bin\Debug\netcoreapp3.1\MasyCoda.pdb
+C:\Users\Manisha\source\repos\MasyCoda\MasyCoda\obj\Debug\netcoreapp3.1\MasyCoda.csprojAssemblyReference.cache
+C:\Users\Manisha\source\repos\MasyCoda\MasyCoda\obj\Debug\netcoreapp3.1\MasyCoda.AssemblyInfoInputs.cache
+C:\Users\Manisha\source\repos\MasyCoda\MasyCoda\obj\Debug\netcoreapp3.1\MasyCoda.AssemblyInfo.cs
+C:\Users\Manisha\source\repos\MasyCoda\MasyCoda\obj\Debug\netcoreapp3.1\MasyCoda.csproj.CoreCompileInputs.cache
+C:\Users\Manisha\source\repos\MasyCoda\MasyCoda\obj\Debug\netcoreapp3.1\MasyCoda.dll
+C:\Users\Manisha\source\repos\MasyCoda\MasyCoda\obj\Debug\netcoreapp3.1\MasyCoda.pdb
+C:\Users\Manisha\source\repos\MasyCoda\MasyCoda\obj\Debug\netcoreapp3.1\MasyCoda.genruntimeconfig.cache
